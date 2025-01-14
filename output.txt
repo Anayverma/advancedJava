@@ -1,0 +1,10 @@
+Employee Details:
+Name: VIT
+ID: 112
+Department: SCSE
+
+Employee Details after updating:
+Employee Details:
+Name: Bhopal
+ID: 112
+Department: SCSE
